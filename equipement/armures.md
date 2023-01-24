@@ -1,5 +1,10 @@
 # Armures
 
+
+
+Aller voir [Elfes](#/ascendances/elfe)
+
+
 | Armures légères       | PFS | Rareté | Traits           | CA  | DEX Max. | Malus/Tests | Malus/Vitesse | Force | Solidité | PV  | SR  | Groupe | Encombrement | Prix |
 | :-------------------- | :-- | :----- | :--------------- | :-- | :------- | :---------- | :------------ | :---- | :------- | :-- | :-- | :----- | :----------- | :--- |
 | Armure matelassée     |     | Commun | Confort          | +1  | +3       | --          | --            | 10    | 1        | 4   | 2   | Tissu  | L            | 2pa  |
