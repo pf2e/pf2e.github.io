@@ -3,3 +3,5 @@
 - [Créer un personnage](creer-perso.md)
   - [Ascendances](ascendances.md)
     - [Elfe](ascendances/elfe.md)
+- [Équipement](equipement.md)
+  - [Armures](equipement/armures.md)
