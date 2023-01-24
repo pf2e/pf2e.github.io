@@ -53,24 +53,39 @@ Aerel, Amrunelara, Caladrel, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal
 ## MECANIQUE
 
 ### Points de vie
+
 6
+
 ### Taille
+
 Moyenne
+
 ### Vitesse
+
 9m / 30 Pieds
+
 ### Primes de caractéristiques
+
 * Dextérité
 * Intelligence
 * Libre
+
 ### Pénalité de caractéristique
+
 * Constitution
+
 ### Langues
+
 * Commun
 * Elfique
 * Langues supplémentaires : un nombre égal à votre modificateur d’Intelligence (s’il est positif).
 * Choisissez parmi les langues suivantes : céleste, draconique, gnoll, gnomien, gobelin, orque, sylvestre, ainsi que toutes les autres langues auxquelles vous avez accès (comme les langues les plus répandues dans votre région).
+
 ### Traits
+
 * Elfe
 * Humanoïde
+
 ### Vision Nocturne
+
 Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état masqué causé par la lumière faible.
