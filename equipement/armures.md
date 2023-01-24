@@ -2,7 +2,7 @@
 
 
 
-Aller voir [Elfes](#ascendances/elfe)
+Aller voir [Elfes](./#/ascendances/elfe)
 
 
 | Armures légères       | PFS | Rareté | Traits           | CA  | DEX Max. | Malus/Tests | Malus/Vitesse | Force | Solidité | PV  | SR  | Groupe | Encombrement | Prix |
