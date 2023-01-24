@@ -62,7 +62,7 @@ Moyenne
 
 ### Vitesse
 
-9m / 30 Pieds
+9m / 30ft
 
 ### Primes de caractéristiques
 
