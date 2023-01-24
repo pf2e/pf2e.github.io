@@ -6,6 +6,5 @@
     - [Gnome](ascendances/gnome.md)
     - [Halfelin](ascendances/halfelin.md)
     - [Humain](ascendances/humain.md)
-    - [Nain](ascendances/nain.md)
 - [Équipement](equipement.md)
   - [Armures](equipement/armures.md)
