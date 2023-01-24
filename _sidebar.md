@@ -2,5 +2,6 @@
 - [Différences avec DnD5e](diff-dnd5e.md)
 - [Créer un personnage](creer-perso.md)
   - [Ascendances](ascendances.md)
+    - [Elfes](ascendances/elfes.md)
 - [Équipement](equipement.md)
   - [Armures](equipement/armures.md)
