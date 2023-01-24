@@ -72,3 +72,4 @@ Choisissez parmi les langues suivantes : céleste, draconique, gnoll, gnomien, g
 Elfe
 Humanoïde
 ## Vision Nocturne
+Vous pouvez voir dans la lumière faible comme s’il s’agissait de lumière vive. Vous ignorez ainsi l’état masqué causé par la lumière faible.
