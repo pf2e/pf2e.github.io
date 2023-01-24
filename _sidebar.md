@@ -2,7 +2,7 @@
 - [Différences avec DnD5e](diff-dnd5e.md)
 - [Créer un personnage](creer-perso.md)
   - [Ascendances](ascendances.md)
-    - [Elfes](ascendances/elfes.md)
+    - [Elfe](ascendances/elfe.md)
     - [Gobelin](ascendances/gobelin.md)
     - [Gnome](ascendances/gnome.md)
     - [Halfelin](ascendances/halfelin.md)
