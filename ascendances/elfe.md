@@ -1,6 +1,7 @@
 # Elfe
 
 <span class="pf2etrait">Elfe</span>&#8239; <span class="pf2etrait">Humanoïde</span>
+<a class="pf2etrait" href="/traits/elfe">Elfe</a>&#8239; <a class="pf2etrait" href="/traits/humanoide">Humanoïde</a>
 
 Source : [livre de base p.34](https://black-book-editions.fr/produit.php?id=7870)
 
