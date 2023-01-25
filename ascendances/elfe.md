@@ -1,6 +1,6 @@
 # Elfe
 
-Traits : Elfe Humanoïde
+Traits : <span style="font-weight: bold; color: white; background-color: brown; border: 1rem solid brown;">Elfe</span> Humanoïde
 
 Source : [livre de base p.34](https://black-book-editions.fr/produit.php?id=7870)
 
