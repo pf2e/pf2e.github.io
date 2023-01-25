@@ -15,8 +15,7 @@ Si vous voulez incarner un personnage excentrique, enthou- siaste et qui aime s�
 
 * Vous efforcez de prouver aux autres, et peut-être à vous-même, que vous avez votre place parmi les autres peuples civilisés.
 * Vous battez bec et ongles (parfois littéralement) pour protéger vos amis et vous-même des dangers.
-* Savez divertir vos compagnons découragés ou ac- cablés (et vous amuser) grâce à vos farces et vos bouffonneries.
- 
+* Savez divertir vos compagnons découragés ou accablés (et vous amuser) grâce à vos farces et vos bouffonneries.
 
 ### Les autres...
 
@@ -26,14 +25,14 @@ Si vous voulez incarner un personnage excentrique, enthou- siaste et qui aime s�
 
 ### Description physique
 
-Les gobelins sont des humanoïdes courts sur pattes, au corps large, aux membres maigres et à la tête surdimensionnée dotée de grandes oreilles et de petits yeux rouges. La cou- leur de leur peau varie entre le vert, le gris et le bleu, et est bien souvent marquée de cicatrices, de furoncles et de plaques rouges. Les gobelins mesurent 90 cm en moyenne. Ils sont majoritairement chauves et dépourvus de poils. Leurs dents en bataille tombent et repoussent régulièrement. Ils bénéficient en outre d’un métabolisme rapide qui les pousse à manger constamment et faire de fréquentes siestes. Les mutations sont également plus courantes parmi les gobelins que chez les autres peuples et ils considèrent généralement qu’une mutation importante est un signe de pouvoir ou de chance.
+Les gobelins sont des humanoïdes courts sur pattes, au corps large, aux membres maigres et à la tête surdimensionnée dotée de grandes oreilles et de petits yeux rouges. La couleur de leur peau varie entre le vert, le gris et le bleu, et est bien souvent marquée de cicatrices, de furoncles et de plaques rouges. Les gobelins mesurent 90 cm en moyenne. Ils sont majoritairement chauves et dépourvus de poils. Leurs dents en bataille tombent et repoussent régulièrement. Ils bénéficient en outre d’un métabolisme rapide qui les pousse à manger constamment et faire de fréquentes siestes. Les mutations sont également plus courantes parmi les gobelins que chez les autres peuples et ils considèrent généralement qu’une mutation importante est un signe de pouvoir ou de chance.
 Les gobelins atteignent l’adolescence à 3 ans et l’âge adulte 4 ou 5 ans plus tard. Ils peuvent vivre jusqu’à 50 ans ou plus, mais sans personne pour les protéger de leurs congénères et d’eux-mêmes, ils dépassent rarement les 20 ans.
 
 ### Société
 
 Les gobelins forment généralement de petites tribus guidées par des meneurs forts.
 Ces tribus comptent rarement plus de cent individus. En effet, plus une tribu est grande, plus son chef devra se montrer diligent s’il veut la garder au pas, ce qui est une tâche notoirement difficile. Alors que de nouvelles menaces surgissent dans la région de la mer Intérieure, de nombreux sages tribaux ont décidé de remiser la traditionnelle insouciance des gobelins dans l’espoir de forger des alliances qui pourront aider leur peuple à survivre. Les gobelins sont cependant plus intéressés par le jeu et la créativité que par la productivité et l’étude, et leurs camps résonnent souvent de chants et de rires.
-Les gobelins forment des liens étroits avec leurs alliés et protègent férocement leurs com- pagnons, surtout si ceux-ci les ont déjà protégés ou ont fait preuve de sympathie envers eux.
+Les gobelins forment des liens étroits avec leurs alliés et protègent férocement leurs compagnons, surtout si ceux-ci les ont déjà protégés ou ont fait preuve de sympathie envers eux.
 Pour leur propre sécurité, les gobelins partent généralement du principe que les membres des grands peuples, qu’ils surnomment les « grandes guibolles », vont mal les traiter. Ils ont du mal à faire confiance aux grandes guibolles, d’autant que ce n’est que dans un passé récent que des relations de confiance entre ces peuples sont devenues envisageables. Cela dit, la brièveté de l’existence des gobelins ainsi que leur mauvaise mémoire leur permet de s’adapter rapidement et leur attitude générale en tant que peuple est en pleine mutation.
 
 ### Alignement et religion
