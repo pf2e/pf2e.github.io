@@ -1,6 +1,6 @@
 # Elfe
 
-Traits : <span style="font-weight: bold; color: white; background-color: brown; border: 3px solid brown;">Elfe</span>&#8239; <span class="pf2etrait">Humanoïde</span>
+<span class="pf2etrait">Elfe</span>&#8239; <span class="pf2etrait">Humanoïde</span>
 
 Source : [livre de base p.34](https://black-book-editions.fr/produit.php?id=7870)
 
