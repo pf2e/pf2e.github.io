@@ -2,7 +2,7 @@
 
 <a class="pf2etrait" href="/#/traits/gnome">Gnome</a>&#8239; <a class="pf2etrait" href="/#/traits/humanoide">Humanoïde</a>
 
-Source : [livre de base p.48](https://black-book-editions.fr/produit.php?id=7870)
+Source : [livre de base p.42](https://black-book-editions.fr/produit.php?id=7870)
 
 *Les ancêtres des premiers gnomes ont quitté le Premier Monde, le royaume des fées, il y a bien longtemps, mais nul ne connaît la véritable raison de leur exil sur Golarion. Les gnomes modernes ont hérité de leurs lointains parents leurs étranges raisonnements, leur excentricité, des comportements obsessionnels et ce que certains perçoivent comme une forme de naïveté. On retrouve des traces des particularités et des origines surnaturelles des gnomes dans les caractéristiques physiques : de longs membres, des cheveux de couleur vive et des visages enfantins et très expressifs.*
 
