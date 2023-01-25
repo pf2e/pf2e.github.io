@@ -1,4 +1,4 @@
-# Gobelin
+# Gnome
 
 <a class="pf2etrait" href="/#/traits/gnome">Gnome</a>&#8239; <a class="pf2etrait" href="/#/traits/humanoide">Humanoïde</a>
 
