@@ -83,8 +83,8 @@ Moyenne
 
 ### Traits
 
-* Elfe
-* Humanoïde
+* <a href="/#/traits/elfe">Elfe</a>
+* <a href="/#/traits/humanoide">Humanoïde</a>
 
 ### Vision Nocturne
 
